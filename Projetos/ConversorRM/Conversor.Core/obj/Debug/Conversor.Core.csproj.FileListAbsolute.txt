@@ -1,0 +1,8 @@
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\Conversor.Core\bin\Debug\Conversor.Core.dll
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\Conversor.Core\bin\Debug\Conversor.Core.pdb
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\Conversor.Core\obj\Debug\Conversor.Core.dll
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\Conversor.Core\obj\Debug\Conversor.Core.pdb
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\Conversor.Core\bin\Debug\Conversor.Core.dll
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\Conversor.Core\bin\Debug\Conversor.Core.pdb
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\Conversor.Core\obj\Debug\Conversor.Core.dll
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\Conversor.Core\obj\Debug\Conversor.Core.pdb

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NFSE xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns="http://www.ginfes.com.br/tipos">
+    <ns2:Nfse>
+        <Nfse>
+            <IdentificacaoNfse>
+                <Numero>122</Numero>
+                <CodigoVerificacao>800157652</CodigoVerificacao>
+            </IdentificacaoNfse>
+            <DataEmissao>2016-03-04T14:37:07.901-03:00</DataEmissao>
+            <IdentificacaoRps>
+                <Numero>118</Numero>
+                <Serie>NF</Serie>
+                <Tipo>1</Tipo>
+            </IdentificacaoRps>
+            <DataEmissaoRps>2016-03-03-03:00</DataEmissaoRps>
+            <NaturezaOperacao>1</NaturezaOperacao>
+            <RegimeEspecialTributacao>0</RegimeEspecialTributacao>
+            <OptanteSimplesNacional>2</OptanteSimplesNacional>
+            <IncetivadorCultural>2</IncetivadorCultural>
+            <Competencia>2016-03-03-03:00</Competencia>
+            <Servico>
+                <Valores>
+                    <ValorServicos>36</ValorServicos>
+                    <ValorDeducoes>0</ValorDeducoes>
+                    <ValorPis>0</ValorPis>
+                    <ValorCofins>0</ValorCofins>
+                    <ValorInss>0</ValorInss>
+                    <ValorIr>0</ValorIr>
+                    <ValorCsll>0</ValorCsll>
+                    <IssRetido>2</IssRetido>
+                    <ValorIss>1.8</ValorIss>
+                    <OutrasRetencoes>0</OutrasRetencoes>
+                    <BaseCalculo>36</BaseCalculo>
+                    <Aliquota>5</Aliquota>
+                    <ValorLiquidoNfse>36</ValorLiquidoNfse>
+                    <ValorIssRetido>0</ValorIssRetido>
+                    <DescontoCondicionado>0</DescontoCondicionado>
+                    <DescontoIncondicionado>0</DescontoIncondicionado>
+                </Valores>
+                <ItemListaServico>1101</ItemListaServico>
+                <CodigoTributacaoMunicipio>522310001</CodigoTributacaoMunicipio>
+                <Discriminacao>GUARDA E ESTACIONAMENTO DE VEICULOS TERRESTRES AUTOMOTORES</Discriminacao>
+                <MunicipioPrestacaoServico>2304400</MunicipioPrestacaoServico>
+            </Servico>
+            <ValorCredito>0</ValorCredito>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <Cnpj>23408030000137</Cnpj>
+                    <InscricaoMunicipal>453708</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>SCOPA PARK ESTACIONAMENTO LTDA</RazaoSocial>
+                <Endereco>
+                    <Endereco>AV SANTOS DUMONT</Endereco>
+                    <Numero>1023</Numero>
+                    <Bairro>ALDEOTA</Bairro>
+                    <Cidade>2304400</Cidade>
+                    <Estado>CE</Estado>
+                    <Cep>60150161</Cep>
+                </Endereco>
+                <Contato>
+                    <Email>vilma@scopa.com.br</Email>
+                </Contato>
+            </PrestadorServico>
+            <TomadorServico>
+                <IdentificacaoTomador/>
+                <Endereco>
+                    <Cep></Cep>
+                </Endereco>
+                <Contato/>
+            </TomadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>2304400</CodigoMunicipio>
+                <Uf>CE</Uf>
+            </OrgaoGerador>
+        </Nfse>
+    </ns2:Nfse>
+   
+</NFSE>

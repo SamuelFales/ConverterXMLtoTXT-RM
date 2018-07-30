@@ -1,0 +1,21 @@
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\ConversorXMLtoRM.exe
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\ConversorXMLtoRM.pdb
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.Properties.Resources.resources
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.csproj.GenerateResource.Cache
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.exe
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.pdb
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.Form1.resources
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\Conversor.Core.dll
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\Conversor.Core.pdb
+C:\Users\samuelcf\Documents\Samuel bkp\Samuel\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.exe
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.pdb
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\ConversorXMLtoRM.exe
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\ConversorXMLtoRM.pdb
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\Conversor.Core.dll
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\bin\Debug\Conversor.Core.pdb
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.Form1.resources
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.Properties.Resources.resources
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Projetos\ConversorXMLtoRM\Projetos\ConversorXMLtoRM\ConversorXMLtoRM\obj\x86\Debug\ConversorXMLtoRM.Sobre.resources
